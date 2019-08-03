@@ -1,3 +1,3 @@
 # MachineLearning_Python
-Learning machine learning using pyhton
-Jupyter notebook
+
+This repository is used as my personal journey to lean machine learning using python through Jupyter notebook.
